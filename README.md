@@ -1,1 +1,1 @@
-# SMKCoding1stProject
+# SMKCodingFirstProject
